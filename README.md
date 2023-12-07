@@ -10,5 +10,7 @@ You can find the data [here](from https://cvlab.cse.msu.edu/project-OEP.html).
 ## Pre-requisities
 ### installations
 ```
-pip install transformes
+pip install -r requirements.txt
 ```
+
+
