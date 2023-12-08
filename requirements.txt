@@ -1,1 +1,6 @@
 transformers
+Pillow
+opencv-python
+numpy
+requests
+scikit-learn
